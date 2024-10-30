@@ -1,0 +1,6 @@
+# Para ignorar todas las extensiones de dichos archivos.
+*.log
+
+# Para ignorar todo el contenido de estas carpetas.
+cache/
+dev/
